@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="927d9cf0-875d-450c-bdd9-a4840eac7329" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xzz/test/Est.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +140,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660553025314</updated>
-      <workItem from="1660553028550" duration="6486000" />
+      <workItem from="1660553028550" duration="6692000" />
+      <workItem from="1660612955695" duration="2496000" />
+      <workItem from="1660658128951" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1660560948493</created>
@@ -148,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660560948493</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1660561319402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660561319402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
